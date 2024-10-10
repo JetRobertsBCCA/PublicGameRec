@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PublicGameRec/static/css/main.6987145f.css",
+    "main.js": "/PublicGameRec/static/js/main.aa022287.js",
+    "index.html": "/PublicGameRec/index.html",
+    "main.6987145f.css.map": "/PublicGameRec/static/css/main.6987145f.css.map",
+    "main.aa022287.js.map": "/PublicGameRec/static/js/main.aa022287.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6987145f.css",
+    "static/js/main.aa022287.js"
+  ]
+}
